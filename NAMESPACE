@@ -2,3 +2,5 @@
 
 export(hello)
 export(squared)
+export(new_rename)
+importFrom(plyr,rename)
