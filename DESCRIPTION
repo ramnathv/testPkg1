@@ -9,6 +9,8 @@ Description: This is just a test package that I am using to ensure that I can in
   well with Travis.
 License: MIT + file LICENSE
 LazyData: TRUE
+Imports:
+  plyr
 Suggests:
     testthat
 RoxygenNote: 5.0.1
