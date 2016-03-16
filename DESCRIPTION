@@ -5,7 +5,10 @@ Version: 0.1.0
 Authors@R: c(
     person("Ramnath", "Vaidyanathan", role = c("aut", "cre"), email = "ramnath.vaidya@gmail.com")
    )
-Description: More about what it does (maybe more than one line)
+Description: This is just a test package that I am using to ensure that I can integrate
+  well with Travis.
 License: MIT + file LICENSE
 LazyData: TRUE
-Suggests: testthat
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
