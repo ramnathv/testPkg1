@@ -13,5 +13,5 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 hello <- function(user) {
-  paste("Hello", user, sep = ", ")
+  paste("Hello ", user, sep = ", ")
 }
