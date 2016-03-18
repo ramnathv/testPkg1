@@ -6,6 +6,11 @@
 \usage{
 add_new(x, y)
 }
+\arguments{
+\item{x}{x}
+
+\item{y}{y}
+}
 \description{
 New function
 }
